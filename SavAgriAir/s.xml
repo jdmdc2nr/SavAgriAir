@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Car_Pack_8C_01-->
+	<SceneryObject lat="43.01821804178132" lon="-76.76109890739477" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{304DCAC6-90B1-42A1-A004-F454E5A69D8B}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+

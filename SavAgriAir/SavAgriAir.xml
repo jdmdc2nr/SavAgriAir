@@ -1,0 +1,8 @@
+<Project Version="2" Name="SavAgriAir" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\savagriair.xml</Package>
+	</Packages>
+</Project>
+
